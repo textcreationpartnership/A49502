@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death the sweetest sleep, or, a sermon preach't on the funeral of Mr. William Hiett, late citizen of London by Tho. Lye ...</title>
+            <author>Lye, Thomas, 1621-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49502</idno>
+            <idno type="STC">Wing L3531</idno>
+            <idno type="STC">ESTC R5710</idno>
+            <idno type="EEBO-CITATION">12986639</idno>
+            <idno type="OCLC">ocm 12986639</idno>
+            <idno type="VID">96211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death the sweetest sleep, or, a sermon preach't on the funeral of Mr. William Hiett, late citizen of London by Tho. Lye ...</title>
+                  <author>Lye, Thomas, 1621-1684.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hiett, William, d. 1681.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96211:1"/>
+            <p>Death the ſweeteſt Sleep, OR A SERMON Preach't on the FUNERAL OF Mr. <hi>WILLIAM HIETT,</hi> Late CITIZEN of LONDON.</p>
+            <p>By <hi>Tho. Lye,</hi> Mr. of Arts, and formerly Miniſter of the Goſpel in <hi>Alhallows Lombard-ſtreet, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. R.</hi> for <hi>Thomas Park<g ref="char:EOLhyphen"/>hurſt,</hi> at the lower end of <hi>Cheapſide.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96211:2"/>
+            <pb facs="tcp:96211:2"/>
+            <head>The Epiſtle Dedicatory.</head>
+            <head type="sub">To the worthily Reſpected. Mrs. <hi>ANNE HIETT,</hi> Relict of Mr. <hi>WILLIAM HIETT</hi> lately De<g ref="char:EOLhyphen"/>ceaſed.</head>
+            <opener>
+               <salute>CHRISTIAN FRIEND,</salute>
+            </opener>
+            <p>THis plain Sermon was lately <hi>Preacht,</hi> and is now <hi>Printed</hi> at your requeſt. What you heard with your <hi>Ear</hi> then, you will now ſee preſented To your <hi>Ey,</hi> with ſome <hi>few additions,</hi> which my Time then did not per<g ref="char:EOLhyphen"/>mit me To touch upon. It hath been Alwaies my <hi>judg<g ref="char:EOLhyphen"/>ment,</hi> That, when <hi>Miniſters</hi> of the Goſpel ar called forth <hi>To improve funeral obſequies,</hi> their proper Work is not ſo much <hi>To launch out into prais, and panegyric</hi> of the Dead, as to <hi>excite,</hi> and <hi>profit</hi> the Living. By this <hi>compaſs</hi> I hav endeavoured to <hi>ſteer</hi> in this diſcourſ. And herein, the <hi>judg</hi> of Hearts knows, my Heart, and Ey, and Aim were ſteadily fixt on the <hi>Spiritual, and Eternal Weal</hi> of that good Society, <hi>whereof,</hi> through Grace, I am an unworthy <hi>Paſtour,</hi> and you, A <hi>becoming Member.</hi>
+            </p>
+            <p>I told them then, and I tell you now, that the Time of our <hi>departure</hi> to our Beds of Earth was <hi>at hand,</hi> that we muſt all, <hi>certainly,</hi> if not <hi>ſodainly</hi> ſleep in the <hi>duſt,</hi> and if ſo, may not the Bleſſed <hi>Moſes</hi> his <hi>pathetick</hi> brea<g ref="char:EOLhyphen"/>thing be lookt on as a rational <hi>inference</hi> from that deep con<g ref="char:EOLhyphen"/>ſideration. <hi>O that they were wiſe, that they under<g ref="char:EOLhyphen"/>ſtood
+<pb facs="tcp:96211:3"/>this, that they would conſider their latter end,</hi> Deut. <hi>32.29.</hi> That you ar not now to begin that great Work, I do not queſtion, and do promiſe my ſelf, that, in Gods ſtrength, you will vigorouſly endeavour ſo to improve this fatal ſtroke, as, by it, the more To meditate on, and pre<g ref="char:EOLhyphen"/>pare for your laſt, laſting, endleſs end. You <hi>well</hi> underſtand the great <hi>Work,</hi> and <hi>Buſineſs,</hi> that you have yet To do, before you <hi>fall Aſleep.</hi> — It is certainly, <hi>ſo</hi> to <hi>liv,</hi> as that you may <hi>cheerfully welcom Death</hi> as a <hi>reconciled</hi> Friend, or <hi>believingly defy it</hi> as a <hi>conquer'd</hi> Enemy. To that end, you will go on more, and more To <hi>clear</hi> up your <hi>intereſt</hi> in that Chriſt, who hath Turn'd the <hi>worſt of poiſons</hi> into the <hi>Beſt of Antidotes,</hi> transform'd Death into <hi>ſleep.</hi> To liv in the conſtant <hi>Acts,</hi> and <hi>Exerciſes</hi> of your Graces, ſpecially Faith, Repentance, Self-denial, Hea<g ref="char:EOLhyphen"/>venly-mindedneſs. To liv, whilſt in, Abov this vain, falſ, vex<g ref="char:EOLhyphen"/>ing World. To walk before God in <hi>Truth,</hi> and with a <hi>perfect</hi> Heart. And do but Ask your own <hi>experience,</hi> whether That be not the way to be in Heaven here, when even on A ſuppo<g ref="char:EOLhyphen"/>ſed <hi>Death-Bed.</hi> To have your <hi>Lamp</hi> ſo fill'd with <hi>Oil,</hi> ſo fairly <hi>trimm'd,</hi> and cleerly <hi>burning,</hi> as that when you com to <hi>die,</hi> you may have nothing elſ left to do, but to <hi>die,</hi> to die in Chriſt, to <hi>ſleep</hi> in him, and, at his return, <hi>ariſe,</hi> and liv for <hi>ever</hi> with him. That thus you may <hi>reſolv,</hi> and <hi>do, thus</hi> liv, and dy, both is, and ſhall be the <hi>fervent praier</hi> of</p>
+            <closer>
+               <dateline>Clapham, <date>Aug. <hi>15th. 81.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your ſympathizing Friend and Pa<g ref="char:EOLhyphen"/>ſtor,</hi> Tho. Lye.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96211:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOH. 11.11.</hi>
+                  </bibl>
+                  <p>Our Friend <hi>Lazarus</hi> ſleepeth.</p>
+               </q>
+            </epigraph>
+            <p>THeſe Words are an <hi>Affirmativ Propo<g ref="char:EOLhyphen"/>ſition,</hi> delivered by <hi>our</hi> bleſſed Sa<g ref="char:EOLhyphen"/>viour, wherein we note
+<list>
+                  <item>1. The <hi>SUBJECT</hi> of it, or the <hi>Perſon</hi> ſpoken of, who is here deſcribed, by his <hi>Name,</hi>
+                     <note n="(a)" place="margin">
+                        <hi>in Heb.</hi> E<g ref="char:EOLhyphen"/>leazar.</note> 
+                     <hi>LAZARUS,</hi> with his <hi>Relation,</hi> a <hi>FRIEND, OUR</hi> Friend.</item>
+                  <item>2. The <hi>PREDICATE. Sleepeth.</hi> Our Friend <hi>Lazarus</hi> ſleepeth.</item>
+               </list>
+            </p>
+            <p>Firſt, As for the <hi>Subject.</hi> Lazarus, <hi>OUR</hi> Friend. Not <hi>My</hi> Friend, but <hi>Ours.</hi> q. d. Behold, my dear Diſciples, I, who am your Liege <hi>Lord, and King,</hi> do yet <hi>ſtoop</hi> ſo far, as To own you not only for my Ser<g ref="char:EOLhyphen"/>vants, and Subjects, but for my <hi>FRIENDS,</hi> and faithful <hi>Lazarus,</hi> tho' now dead, to be my <hi>Friend;</hi> I am indeed <hi>your</hi> Friend, and ye are <hi>my</hi> Friends, and ſo was <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi>
+               <pb n="2" facs="tcp:96211:4"/>whilſt Living, my <hi>Friend,</hi> and <hi>your</hi> Friend. <hi>Our Friend Lazarus.</hi> From hence I infer</p>
+            <p n="1">I. <hi>That there is A Mutual Friendſhip, a dear and intimate Lov betwixt the Lord Jeſus and tru Believers.</hi> 'Twas ſo betwixt Chriſt and <hi>Lazarus. CHRIST</hi> was certainly a Friend to <hi>Lazarus.</hi> Both his Siſters atteſt it. <hi>Lord, he whom thou loveſt, is ſick,</hi> ver. 3. The Evangeliſt averrs it, <hi>Jeſus loved Lazarus,</hi> v. 5. and the <hi>Jews,</hi> from his <hi>melting</hi> Tears, and <hi>yerning</hi> Bowels, conclude it, <hi>ver.</hi> 36. <hi>Be<g ref="char:EOLhyphen"/>hold, how he lov'd him.</hi> And that <hi>LAZA<g ref="char:EOLhyphen"/>RUS</hi> lov'd Jeſus, abundantly appears from his friendly <hi>Converſe,</hi> and <hi>Communion</hi> with him, his friendly <hi>treats and entertainments</hi> of him. Chriſt did often eat of his <hi>bread,</hi> and drank of his <hi>Cup.</hi> That <hi>BETHANY,</hi> which, by <hi>Lazarus</hi>'s Death, may juſtly now be ſtil'd an houſ of <hi>Sorrow,</hi> was, in <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> Life-Time, to Chriſt a real <hi>BETH<g ref="char:EOLhyphen"/>LEHEM,</hi> an houſe of <hi>bread.</hi> And ſo it was, and is betwixt the Lord, and all Tru Believers. <hi>ABRAHAM</hi> is ſtiled <hi>the Friend of God</hi> by <hi>Jehoſhaphat;</hi> 2 Chron. 20.7. and Jam. 2.23. becaus of his firm <hi>Co<g ref="char:EOLhyphen"/>venanting,</hi>
+               <pb n="3" facs="tcp:96211:4"/>and frequent <hi>Communion</hi> with him: and <hi>GOD</hi> owns him as his Friend. <hi>Iſa.</hi> 41.8. The like doth Chriſt our Lord. <hi>Henceforth I call you not ſervants, but friends.</hi> Joh. 15.14, 15. This friendſhip is<note n="(b)" place="margin">
+                  <hi>Jer.</hi> 31.33. &amp; 32.38, 39. <hi>Zec.</hi> 13.9. <hi>Hoſ.</hi> 2.23.</note> 
+               <hi>Mu<g ref="char:EOLhyphen"/>tual I lov them, that lov me.</hi> Prov. 8.17. <hi>My Beloved is mine, and I am His.</hi> Can. 2.16.</p>
+            <p>From hence Learn.</p>
+            <p n="1">1. <hi>The heigth, Ela, Zenith of a Tru Belie<g ref="char:EOLhyphen"/>ver, a clod of duſt, and ſin, his Exaltation,</hi> that, as the Son of God is not aſhamed to call him <hi>Brother,</hi> ſo both Father and Son are pleas'd to own and embrace him, as a <hi>Friend.</hi>
+            </p>
+            <p n="2">2. <hi>The infinit ſtoop, and condeſcenſion of the Lord Jeſus, who, tho' he thought it no robbery,</hi> but rather claims it as his juſt <hi>Prerogative,</hi> to be equal with God, <hi>judges it no diſparage<g ref="char:EOLhyphen"/>ment, to match himſelf with weak, and wretched men. Our Friend Lazarus.</hi> Friendſhip be<g ref="char:EOLhyphen"/>ſpeaks a kind of <hi>(a) Parity.</hi>
+               <note n="(c)" place="margin">Amicitia est inter pares.</note> There may be lov, where there is the greateſt inequality. Lov <hi>deſcends.</hi> But Friendſhip either finds, or makes an <hi>Equal.</hi>
+            </p>
+            <p n="2">II. <hi>That All thoſe, that are Tru Friends to Chriſt, are mutually loving Friends each to other.</hi>
+               <pb n="4" facs="tcp:96211:5"/>Not my Friend, but <hi>OUR</hi> Friend, ſaith the Text. Not a Friend to me only, who am the <hi>head,</hi> but To you alſo, and <hi>all, that are like you,</hi> living Members of the Myſtical body. The holy <hi>Epheſians,</hi> that had tru Faith in Chriſt, <hi>had a ſincere lov to All the Saints.</hi> Eph. 1.15. So had the <hi>Coloſſians,</hi> Col. 1.4. The <hi>Beloved Diſcipl</hi> aſſures us, that 'tis impoſſible to lov the Father,<note place="margin">1 <hi>Joh.</hi> 4.20, 21.</note> or his Eternal Son, <hi>if we lov not his adopted Chil<g ref="char:EOLhyphen"/>dren.</hi> The Mutual lov of Saints is the very <hi>badg,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 13.35.</note> 
+               <hi>livery,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Diſtinctiv Character</hi> of a Tru Diſcipl. <hi>By this ſhall all men Know, that ye ar my Diſcipls indeed, if ye lov one ano<g ref="char:EOLhyphen"/>ther.</hi> Ecce, ut <hi>Chriſtiani</hi> ſe <hi>mutuo</hi> diligant, was the bleſſed <hi>Elogy,</hi> the convinced Hea<g ref="char:EOLhyphen"/>thens gav the <hi>Warm</hi> Chriſtians of Old, who, were they now aliv, would ſee too much reaſon to decry, yea <hi>condemn</hi> the <hi>fro<g ref="char:EOLhyphen"/>zen</hi> hearts, and yet <hi>diſtemperd</hi> heats of the <hi>ſhallow</hi> Profeſſors of this <hi>divided</hi> Age.</p>
+            <p>We hav diſpatcht the <hi>Subject;</hi> pro<g ref="char:EOLhyphen"/>ceed we to</p>
+            <p>Secondly, The <hi>PREDICATE</hi> of our Saviours Aſſertion-,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: dormit. <hi>i. e.</hi> mortuus est.</note> 
+               <hi>SLEEPETH;</hi> i. e. <hi>is dead.</hi> The Apoſtl makes uſe of that,
+<pb n="5" facs="tcp:96211:5"/>which we call an <hi>Euphemiſmus.</hi> By a <hi>ſoft expreſſion</hi> hinting that, which is of a more <hi>harſh</hi> ſignification. So, to <hi>depart</hi> hence, is To <hi>Die.</hi> The Syriack Verſion renders it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>jacet, cubat, decumbit,</hi> is <hi>Laid</hi> down to ſleep; to <hi>reſt</hi> himſelf on a bed of <hi>Earth,</hi> on a pillow of <hi>Duſt.</hi> So the word is uſed,<note place="margin">2 Sam. 7.12. &amp; Iſa. 14.8.</note> and interpreted by the Septuagint.</p>
+            <p>But our Lords own <hi>Mouth</hi> is his Beſt <hi>Commentary,</hi> What he Here calls <hi>Sleep,</hi> ver. 13.14. he moſt <hi>expreſly,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i. e.</hi> moſt plainly, without a <hi>Metaphor,</hi> calls <hi>Death,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>is dead.</hi>
+            </p>
+            <p>From hence we gather This <hi>Note,</hi> That</p>
+            <p>
+               <label>Obſ.</label> 
+               <hi>A Tru Believers Death is a Sleep. A ſweet, a Bleſſed Sleep.</hi> Not a <hi>Natural</hi> ſleep, ſuch as that <hi>Mat.</hi> 28.13. is. <hi>Luk.</hi> 22.45. <hi>Act.</hi> 12.6. of <hi>this</hi> the Diſcipls miſunder<g ref="char:EOLhyphen"/>ſtood the words of Chriſt, <hi>ver.</hi> 12, 13. of this Chapter. But a <hi>Metaphorical</hi> ſleep. Our <hi>ſleep</hi> here is but a <hi>ſhorter</hi> Death, and our <hi>Temporal</hi> Death but as a <hi>longer</hi> ſleep. None can Know the Eſtate of Life or Death, ſo well as our Bleſſed <hi>Saviour,</hi> who is <hi>Lord</hi> of Both. It is enough, that he tells us, that <hi>Death</hi> is no other than <hi>Sleep.</hi>
+            </p>
+            <pb n="6" facs="tcp:96211:6"/>
+            <p>
+               <label>Queſt.</label> But, <hi>What</hi> is That, that is ſaid <hi>to ſleep in Death?</hi>
+            </p>
+            <p>
+               <label>Sol.</label> 1. <hi>Negatively.</hi> 'Not the <hi>Soul,</hi> after its departure from the Body, No: The <hi>Bodies</hi> of men indeed,<note place="margin">Gen. <hi>3.19.</hi> Almondo a Via. My body dies, my ſpirit livs. The day of death to the body, is the birth of Eternity to the Soul.</note> after Death, <hi>return to the dust and ſee corruption,</hi> Act. 13.36. But their <hi>Souls</hi> having an immortal ſubſi<g ref="char:EOLhyphen"/>ſtence, and vivacity, neither die, nor <hi>ſleep,</hi> but immediatly <hi>return to God that gave them,</hi> Eccl. 12.7. The <hi>Souls</hi> of Belie<g ref="char:EOLhyphen"/>vers ar, at their Death, made <hi>perfect</hi> in holineſs, <hi>the ſpirits of juſt men ar then made perfect,</hi> Heb. 12.23. and do immediatly paſs into glory. So our Bleſſed Saviour aſſures the penitent Thief, that that very day, he, <hi>i. e.</hi> his Soul ſhould be <hi>with him in Paradiſe,</hi> Luk. 23.43. and <hi>Paul</hi> Knows, that as ſoon as ever his Soul departs out of his body, <hi>it will be with Chriſt,</hi> Phil. 1.23. and that, when this our <hi>earthly houſe of</hi> this Tabernacle is <hi>diſſolved,</hi> the Soul hath <hi>a building of God,</hi> an houſe not made with hands, Eternal in the Heavens. 2 <hi>Cor.</hi> 5.1.6.8. That, as ſoon as we ar abſent from the Body, we ar <hi>preſent with the Lord.</hi> Not the Soul then, but</p>
+            <pb n="7" facs="tcp:96211:6"/>
+            <p n="2">2. <hi>Poſitivly.</hi> The<note n="(a)" place="margin">
+                  <hi>Mat.</hi> 27.52</note> 
+               <hi>Body,</hi> that, and that only is ſaid to <hi>ſleep.</hi> This Metaphor of <hi>ſleep</hi> applied to Death is taken from the Body only. Now the great <hi>Reſemblance</hi> between a Believers<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat.</note> 
+               <hi>Death,</hi> and <hi>Sleep</hi> appears in <hi>four</hi> Things.</p>
+            <p n="1">1. From thoſe many <hi>Synonymical</hi> Texts, that do all with one Mouth <hi>Eccho</hi> to this Truth. David <hi>ſlept with his Fathers,</hi> 1 <hi>Kin.</hi> 2.10. Solomon; 1 <hi>Kin.</hi> 11.43. <hi>Aſa, Je<g ref="char:EOLhyphen"/>hoſhaphat, Hezekiah.</hi> 'Tis <hi>Pauls</hi> uſual <hi>Idiom,</hi> to call death, <hi>ſleep;</hi> 1 Cor. 7.39. and 11.30.— and 15.6.18.20.51.— <hi>a ſleep in Jeſus,</hi> 1 Theſ. 4.13, 14, 15.— Since the Fathers <hi>fell aſleep,</hi> 2 Pet. 3.4, <hi>the ſleep of death,</hi> Pſal. 13.3. Thus the Protomartyr <hi>Stephen</hi> his Death is expreſt; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Act.</hi> 7.60.</note> 
+               <hi>He fell aſleep.</hi>
+            </p>
+            <p n="2">2. From thoſe <hi>Terms,</hi> that are given to the Saints <hi>Graves.</hi> They are call'd their <hi>Beds. They ſhall rest in their Beds.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 57.1, 2.</note> When a Believers Work is done, all he hath to do, is to go to <hi>Bed,</hi> and take his reſt on his <hi>Bed,</hi> not of down, but <hi>duſt.</hi> Hence the places of the Saints Burial, both in <hi>Greek, Latin, French,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Dormitoria,
+<pb n="8" facs="tcp:96211:7"/>Cemitieres,</hi> i. e. <hi>ſleeping</hi> places. As in <hi>Dutch, Gods-acre,</hi> becaus bodies ar only ſown there, to be rais'd again, which the <hi>Heb.</hi> expreſs with a greater Faith, by calling the Grave <hi>Beth-chaim, the houſe of the Living.</hi>
+            </p>
+            <p n="3">3. From that which is <hi>Contrary</hi> to Death, viz. <hi>Reſurrection.</hi> It is call'd An <hi>Awaking.</hi> When I <hi>awake</hi> with thy Likeneſs.<note place="margin">
+                  <hi>Pſal.</hi> 17.15.</note> Many, that <hi>ſleep in the</hi> Duſt, ſhall <hi>Awake;</hi> Dan. 12.2. To allude only to that <hi>Iſa.</hi> 26, 19, 20. <hi>Awake,</hi> and ſing ye, that dwell in the <hi>Duſt.</hi>
+            </p>
+            <p n="4">4. From that notable <hi>Parallel,</hi> that moſt clearly runs betwixt <hi>Sleep,</hi> and <hi>Death,</hi> which, ſay judicious Divines, appears <hi>principally</hi> in two things, <hi>Reſt,</hi> and <hi>Reſurrection.</hi>
+            </p>
+            <p n="1">1. <hi>Reſt.</hi> Sleep argues <hi>Reſt,</hi> at leaſt it <hi>tends</hi> to it, and <hi>diſpoſes</hi> for it. They ſhall <hi>reſt in their</hi>
+               <note n="(a)" place="margin">Ut ſomnus mortis, ſic lectus imago ſepulchri.</note> 
+               <hi>Beds,</hi> Iſa. 57.2. Sleep on now, and take your <hi>Reſt,</hi> Mat. 26.45. When A Believer <hi>dies,</hi> he goes to his <hi>Reſt,</hi> to a ſweet <hi>repoſe</hi> in his Bed of Earth, <hi>Warm'd and Perfum'd</hi> for him by the precious <hi>Body</hi> of his Lord, and Saviour. A <hi>fivefold</hi> Reſt, from Labour, <hi>Troubl,</hi> Paſſions, <hi>Sins,</hi> Temp<g ref="char:EOLhyphen"/>tations.</p>
+            <pb n="9" facs="tcp:96211:7"/>
+            <p n="1">1. <hi>From Labour.</hi> This Life is the day of the Saints Labour, and Working, his Death is the Night of his Reſting. The Sun ariſeth, and Man <hi>goeth forth To his La<g ref="char:EOLhyphen"/>bour</hi> till the Evening. <hi>Pſ.</hi> 104.23. When the Sun of A Believers Life ariſeth, he goes forth to his <hi>Labour</hi> till the <hi>Evening of Death.</hi> Till Evening, but no longer, for then he ſhall <hi>reſt from his Labours. Rev.</hi> 14.13. A Chriſtian here is like <hi>quick-ſilver,</hi>
+               <note place="margin">
+                  <hi>Vidus Breſſius.</hi> If Gods Spirit ſay Tru, I ſhall ſtrait reſt from my Labours: my Soul is even taking VVing to fly to her reſting place.</note> which hath in its ſelf a principl of <hi>motion,</hi> but not of <hi>reſt,</hi> is never quiet. His Life is a con<g ref="char:EOLhyphen"/>tinued motion, his Death a continued Reſt? Here as a <hi>Ball</hi> upon the <hi>Racket,</hi> as a <hi>Ship</hi> on the <hi>Waves,</hi> a <hi>Strong</hi> man in his <hi>Race,</hi> Death brings him To his <hi>Goal,</hi> to his <hi>Port of Reſt.</hi> This life is but nois, and tumult, Death is ſilence.</p>
+            <p n="2">2. <hi>Troubls, ſufferings, oppreſſions,</hi> and theſe either <hi>publique</hi> or <hi>private.</hi>
+            </p>
+            <p n="1">
+               <label>I. Publique.</label> The Lord foreſees a <hi>ſtorm</hi> of Blood, and Wrath to com, in mercy, he <hi>houſeth</hi> A Believer, before the <hi>Storm</hi> falls. As the <hi>Egyptians hous'd</hi> their Cattle and Servants, before that <hi>dreadful thunder,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 9.20. <hi>Iſa.</hi> 57.1.</note> and hail came. <hi>Merciful men are taken away
+<pb n="10" facs="tcp:96211:8"/>from the Evil to com.</hi> This the Lord is pleas'd To promiſe, as A gracious Anſwer, and Return, To <hi>Joſiahs,</hi> praiers, tears, <hi>Hu<g ref="char:EOLhyphen"/>miliation,</hi> reformation; <hi>viz.</hi> that he ſhould be gathered to his Grave in peace, <hi>and that his eies ſhould not ſee all the evil which God would bring upon Jeruſalem.</hi> 2 Chron. 34.27, 28.</p>
+            <p n="2">
+               <label>II. Private and Perſonal.</label> Man is born to <hi>Troubl,</hi> as the ſparks fly upward. <hi>They, that will liv Godly, must ſuffer perſecution. Afflicti<g ref="char:EOLhyphen"/>on</hi> is the <hi>Lot</hi> of Gods <hi>Iſrael.</hi> This World ever was, and ever will be An <hi>Egypt</hi> to the Saints, and here they muſt expect to find moſt cruel <hi>Task-maſters.</hi> This Life is ſo full of Trouble, that 'twas the <hi>Obſerva<g ref="char:EOLhyphen"/>tion</hi> of <hi>Jerom,</hi> an Antient Father, and the <hi>Reſolution</hi> of the <hi>3d.</hi>
+               <note place="margin">Chriſtus non ploravit <hi>Laza<g ref="char:EOLhyphen"/>rum</hi> mortuum, ſed ad hujus vi<g ref="char:EOLhyphen"/>tae arumnas plo<g ref="char:EOLhyphen"/>ravit reſuſcitan<g ref="char:EOLhyphen"/>dum.</note> 
+               <hi>Toletan</hi> Council con<g ref="char:EOLhyphen"/>cerning Chriſts <hi>weeping</hi> over Lazarus. <hi>Joh.</hi> 11.35. That it was not ſo much becaus he was dead, as becaus he was to be raiſed up again, <hi>to feel the burthens, and afflictions of this</hi> Life. Gods <hi>Jonahs</hi> find this Life to be a ſtormy paſſage, A tempeſtuous Sea-Voiage, wherein they meet with many <hi>Whales,</hi> many <hi>Leviathans,</hi> Death ſets them ſafe on ſhore, puts them into ſafe harbour:
+<pb n="11" facs="tcp:96211:8"/>whilſt here, the <hi>Archers</hi> ſorely griev Gods Saints, ſhoot at them, hate them, draw out their Swords after them, ſtrong <hi>Bulls of Baſhan</hi> beſet them round; the <hi>Plowers</hi> plow upon their backs, they make long their <hi>furrows,</hi> But <hi>there the weary is at reſt, Job</hi> 3.17. There the wicked ceaſe from troubling. No need now to fear A <hi>Gard<g ref="char:EOLhyphen"/>ners</hi> Priſon, <hi>Bonners</hi> Stocks, or Cole-houſe, nor a flaming <hi>Smithfield.</hi>
+               <note place="margin">
+                  <hi>Lucius</hi> to <hi>Urbi<g ref="char:EOLhyphen"/>cius,</hi> I thank you with all my heart, that by death will free me from wicked Gover<g ref="char:EOLhyphen"/>nours.</note> Here Gods <hi>Peter</hi>'s no more dread the <hi>Croſs,</hi> nor <hi>Paul</hi>'s the <hi>Ax,</hi> nor <hi>James</hi>'s the <hi>Sword,</hi> nor Gods <hi>Elijah</hi>'s a curſed-painted <hi>Jezabels</hi> bloody <hi>threats.</hi> In A Word, the whol Army of Gods <hi>Noble Martyrs,</hi> are here paſt all fear of halters,<note place="margin">
+                  <hi>Cyprian,</hi> God be bleſſed for this Goal deli<g ref="char:EOLhyphen"/>very.</note> 
+               <hi>racks,</hi> wheels, <hi>ſtakes,</hi> gibbets, the moſt <hi>ex<g ref="char:EOLhyphen"/>quiſite Torments,</hi> that either <hi>PAPISTS,</hi> or <hi>DIVELS</hi> can invent, or are ready to in<g ref="char:EOLhyphen"/>flict.</p>
+            <p n="3">3. <hi>From Paſſions, and inward perturbations, griefs, Anxietys.</hi> Here in this Life,<note place="margin">
+                  <hi>Babylas.</hi> Now will God wipe away all Tears.</note> the Be<g ref="char:EOLhyphen"/>lievers <hi>pulſe</hi> beats ſlow, and <hi>faint,</hi> his heart <hi>pants,</hi> his eies <hi>moiſten'd,</hi> and his cheeks <hi>blub<g ref="char:EOLhyphen"/>ber'd</hi> with tears; you may read the <hi>Anguiſh</hi> of his Soul in his <hi>Countenance.</hi> But in <hi>Death</hi> every tear <hi>dried</hi> up in the eye, <hi>wiped off</hi> the
+<pb n="12" facs="tcp:96211:9"/>cheek, <hi>All ſorrow, and ſighing flown away, Rev.</hi> 21.4. The Saints <hi>Baca</hi> is turned into A <hi>Berachah,</hi> ſighing into ſinging, miſery in<g ref="char:EOLhyphen"/>to mercy.</p>
+            <p n="4">4.<note place="margin">
+                  <hi>Pic. Mirand.</hi> Death is wel<g ref="char:EOLhyphen"/>com, not ſo much as an end of Troubl, as of ſin.</note> 
+               <hi>From ſins, iniquities, corruptions.</hi> Whilſt here, the poor <hi>ſin-peſter'd Saint</hi> cries out of the <hi>Law in his Members, warring againſt the Law of his mind, againſt the body of ſin and death.</hi> You may hear his out-cry as of a perſon on a <hi>Rack. Rom.</hi> 7.23, 24—But now he, <hi>that is dead, is freed from ſin, Ro.</hi> 6.7. 1 <hi>Pet.</hi> 4.1. Not the leaſt <hi>ſpot or wrinkle left</hi> in his Soul. <hi>Eph.</hi> 5.27. Not one <hi>Agag</hi> ſpared alive. Every <hi>Egyptian</hi> not ſprawling, but <hi>ſtark-dead</hi> upon the ſhore. The end of a Saints <hi>Living</hi> is the <hi>Non ultra</hi> of a Saints ſin<g ref="char:EOLhyphen"/>ning. With this, that good <hi>Martyr</hi> held up his head, when he encouraged his fel<g ref="char:EOLhyphen"/>low with telling him, that my Lord of <hi>London,</hi> (he meant that <hi>BLOODY</hi> Butcher <hi>Bonner</hi>) was ſending of them there, <hi>where they ſhould ſin no more.</hi>
+            </p>
+            <p n="5">5. <hi>From Temptations, aſſaults, trialls, com<g ref="char:EOLhyphen"/>bates, Satans winnowing,</hi> &amp;c. Not an <hi>Adam,</hi> no not in the Paradice of the Church, but hath an <hi>Eve</hi> in his boſom. Chaſt <hi>Joſeph</hi> at<g ref="char:EOLhyphen"/>taqu'd
+<pb n="13" facs="tcp:96211:9"/>by a <hi>Potiphars</hi>-Wife. A Meſſenger now and then from the loweſt pit <hi>to buffet us.</hi>
+               <note place="margin">2 <hi>Cor.</hi> 12.7.</note> A damp ariſing from Satans deepeſt <hi>Mine,</hi> to <hi>choak</hi> us. <hi>Anakims</hi> To Wound, Daughters of <hi>Heth</hi> to Troubl, Daughters of <hi>Midian</hi> to Allure us. Snares, <hi>Ginns,</hi> Traps, <hi>Limetwiggs.</hi>
+               <note place="margin">1 <hi>Pet.</hi> 5.8.</note> Satan going about <hi>like a roaring Lion,</hi> ſeeking whom he may devour. This world is the poor Saints <hi>Gymnaſium, Arena, Wreſtling, place.</hi> And Tho' It be the Saints <hi>Honour</hi> at length to Conquer, yet It is, and cannot but be the Saints <hi>Troubl,</hi> thorn, <hi>pain,</hi> ſo long to <hi>Conflict.</hi> But now Death puts the Saints into ſo peaceabl an <hi>Eſtate,</hi> as that he is not only without <hi>foil,</hi> but <hi>fighting.</hi> Not only the <hi>Accuſer,</hi> but the <hi>Tempter</hi> of the Brethren is <hi>caſt out, Rev.</hi> 12.10. Thus we ſee The <hi>Paralel</hi> betwixt ſleep, and death with Reſpect to Reſt. Let us ſee next, how they ſuite in</p>
+            <p n="2">2. <hi>Reſurrection, or Awaking.</hi> Natural Sleep is not <hi>perpetual.</hi> We ſleep, and awake again. Believers, tho' they <hi>ſleep,</hi> they ſhall <hi>ariſe</hi> again, as men, awaken'd out of <hi>ſleep.</hi> This is expreſſed in the Words imme<g ref="char:EOLhyphen"/>diately following our Text. <hi>Our Friend</hi>
+               <pb n="14" facs="tcp:96211:10"/>Lazarus <hi>ſleepeth, but I go to awaken him out of ſleep. i. e.</hi> to rais him from the dead. The Apoſtle <hi>Paul</hi> is much upon this <hi>Metaphor;</hi> ſee 1 Cor. 15.18, 20, 51, 52. <hi>Thy dead men ſhall live, together with my dead body ſhall they ariſe.</hi> Job 19.26, 27. <hi>Although after my skin, worms deſtroy this body, yet in my fleſh ſhall I ſee God,</hi> &amp;c.</p>
+            <p>Death may, yea, ſhall <hi>prevail</hi> over the <hi>whol</hi> outward Man. Death ſpends both <hi>skin</hi> and <hi>reins;</hi> ſwallows up both <hi>fleſh</hi> and <hi>bones,</hi> And yet for all this, this <hi>Total</hi> Conſumpti<g ref="char:EOLhyphen"/>on of the Body of Man, is no <hi>impediment,</hi> no <hi>barr</hi> in the way of Faith, to ſtop us from a firm Belief of our <hi>Reſurrection.</hi> As Death ſhall <hi>triumph</hi> over Jobs <hi>Body,</hi> ſo Jobs <hi>Faith</hi> triumphs over <hi>Death. He, that believes in Chriſt, yea, tho he were dead,</hi> tho' totally cor<g ref="char:EOLhyphen"/>cupted, and conſumed, <hi>yet ſhall he live again.</hi> John 11.25.</p>
+            <p>I have done with the <hi>proof</hi> of our Point, the <hi>Improvement</hi> follows.</p>
+            <p>
+               <label>Uſe 1. Of INFORMATION.</label> Is Natu<g ref="char:EOLhyphen"/>ral Death a <hi>ſleep,</hi> and no more, hence 'tis eaſy To <hi>inferr</hi> not only the Truth
+<pb n="15" facs="tcp:96211:10"/>of that great <hi>Articl</hi> of our Faith, the Reſurrection of the Body, but <hi>the facility and eaſineſs of Accompliſhing it.</hi>— After <hi>Natural</hi> ſleep men uſe to <hi>awake</hi> again. So, after Death, the Bodies of men ſhall be <hi>awaked: i. e.</hi> rais'd up out of their Graves to life, at the laſt day. And 'Tis moſt juſt, that thoſe <hi>Bodies,</hi> which hav been the Souls <hi>Co<g ref="char:EOLhyphen"/>partners</hi> in doing good, or evil, ſhould therefore <hi>participate</hi> in the reward, and pu<g ref="char:EOLhyphen"/>niſhment: which cannot be done with<g ref="char:EOLhyphen"/>out a Reſurrection. But the <hi>white</hi> I aim at here, is the <hi>facility</hi> of the Accompliſh<g ref="char:EOLhyphen"/>ing it. How eaſily is a living man awak<g ref="char:EOLhyphen"/>ed out of a ſhallow ſlumber, or deep ſleep. Much more eaſy with God by his Almighty power, and voice To <hi>revive,</hi> and rais the dead at the laſt day. 1 <hi>Theſ.</hi> 4.15, 16, 17.</p>
+            <p>
+               <label>Uſe 2. Of TERROUR</label> to, and mourn<g ref="char:EOLhyphen"/>ing over unregenerate, unbelieving, impe<g ref="char:EOLhyphen"/>nitent ones, living, and dying in their ſins, and luſts. Poor wretched Creatures. 'Tis Tru, you muſt dy <hi>certainly,</hi> and you may dy <hi>ſpeedily:</hi> but Know, that your Death is
+<pb n="16" facs="tcp:96211:11"/>but <hi>A ſleep.</hi>
+               <note place="margin">You muſt wake again, and when you wake, you will awake dead<g ref="char:EOLhyphen"/>ſick.</note> Thoſe Bodys of yours muſt hereafter be awaked and rais'd out of your Graves at the laſt day; and united again To the Soul, that both <hi>Souls</hi> and <hi>Bodies</hi> may be caſt <hi>together</hi> into Hell Torments for ever. <hi>Joh.</hi> 5.27, 28. <hi>Mat.</hi> 25.33. Oh how well were it for ſuch, if their Souls, and Bodies might utterly periſh, and be abo<g ref="char:EOLhyphen"/>liſhed, by Death, as the Bodies and Souls of Brute Beaſts. How happy is <hi>A dead Lion</hi> abov An <hi>ever-living</hi>-or-rather-an <hi>ever-dying</hi> damned-unbelieving <hi>Caitif.</hi>
+            </p>
+            <p>
+               <label>Uſe 3. OF SUPPORT, AND CONSOLA<g ref="char:EOLhyphen"/>TION TO SOUND Believers:</label> Precious Souls!</p>
+            <p n="1">1. You complain of <hi>ſad</hi> and unpleaſant lives, of dark and <hi>gloomy</hi> daies, of <hi>black</hi> and reſtleſs nights. Cheer up ye beloved of the Lord, and know, that the time is ſhortly coming, when ye ſhall lie down quietly in your Beds, and not have one <hi>waking mo<g ref="char:EOLhyphen"/>ment,</hi> or diſtracting dream. When once you are gone down to this bed, <hi>the grave,</hi> when the Curtains of darkneſs ar drawn about you, you ſhall never open your
+<pb n="17" facs="tcp:96211:11"/>eies any more till the <hi>Morning</hi> of Eternity <hi>dawns,</hi> and breaks forth in luſtre on you. Behold to your Everlaſting comfort, That, which is To others <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A <hi>King of Terrors,</hi> to you is the King, or <hi>chief</hi> of Comforts. what is <hi>DEATH</hi> to others, is but A <hi>SLEEP,</hi> a ſweet ſleep to you. You may ſafely play on the Hole of this <hi>Aſp,</hi> on the Den of this <hi>Cockatrice,</hi> nay handl this <hi>Aſp</hi> it ſelf. This Death that was once A Serpent is now none, or if it be, 'Tis a Serpent without A <hi>Sting.</hi> T' hath left its ſting <hi>in the ſide of Chriſt.</hi> 1 <hi>Cor.</hi> 15.55, 56, 57. What that fooliſh <hi>Agag</hi> cracks out <hi>falſly,</hi> you may, in holy Triumph, cry out, <hi>Truly,</hi> ſurely <hi>The bitterneſs of Death is paſt,</hi> 1 <hi>Sam.</hi> 15.32. See how Death it ſelf is even <hi>embalm'd,</hi> and clothd in ſuch ſoft, and <hi>ſilken</hi> Language, that It carries even A ſweetneſs, and beau<g ref="char:EOLhyphen"/>ty in it. 'Tis A <hi>ſleep,</hi> no more than A ſleep.</p>
+            <p n="2">2. Sleep, tho' it <hi>chains</hi> up the ſenſes for a Time, yet it <hi>diſſolvs not</hi> the union between the Soul, and the Body. So, neither doth Death, the <hi>Spiritual, myſtical</hi> union betwixt Chriſt and Tru <hi>Believers;</hi> nor indeed be<g ref="char:EOLhyphen"/>twixt
+<pb n="18" facs="tcp:96211:12"/>Believers themſelves.</p>
+            <p n="1">I. <hi>Not between God in Chriſt, and Tru Be<g ref="char:EOLhyphen"/>lievers,</hi> Tho' <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> be dead To others, They are not ſo to God, <hi>Mat.</hi> 22.32. <hi>God is not the God of the dead, but of the living.</hi> The Relation of God to <hi>Abraham,</hi> and of <hi>Abraham</hi> to God, was as ſtrong, <hi>when dead,</hi> as living. The Sleep of the Wife breaks not the <hi>Marriage Knot</hi> between her, and her Bridegroom. The union betwixt Chriſt and Believers out<g ref="char:EOLhyphen"/>lives Death. Tho' Death triumphs over the <hi>Natural</hi> union between the Body and the Soul, yet not over the <hi>myſtical</hi> union between the Soul and Chriſt. Let them liv, they liv in, and to Chriſt: Let them dye, they die to, and ſleep in Chriſt. 1 <hi>Theſs.</hi> 4.14. <hi>Living, and Dying, they are the Lords.</hi> Ro. 14.8.</p>
+            <p n="2">II. <hi>Nor yet between Believers themſelvs.</hi> As <hi>Faith</hi> is the <hi>Evidence</hi> of things not ſeen,<note place="margin">
+                  <hi>Heb.</hi> 11.1.</note> that are <hi>future,</hi> So It is a clear <hi>Reflection</hi> on things, that are <hi>paſt.</hi> By <hi>Faiths</hi> ey we may eaſily look on the pale face of the firſt Martyr,<note place="margin">
+                  <hi>Heb.</hi> 11.4.</note> and with <hi>Faiths ear,</hi> Tho' he be dead, yet hear him ſpeaking. Is a Godly
+<pb n="19" facs="tcp:96211:12"/>
+               <hi>Sarah</hi> dead, 'Tis poſſible for her ſurviving ſpiritual <hi>Daughters</hi> to converſ with her, as tho' aliv, mark her outward <hi>dreſs,</hi> her in<g ref="char:EOLhyphen"/>ward <hi>ornaments,</hi> how ſhe Truſted in God, and obeyed her Husband. 1 <hi>Pet.</hi> 3.1. to 7. There is not A Saint of God that dies, but leaves A <hi>glaſs</hi> behind him, in which, when ere you pleas to be Truly ſerious, you may behold their face, and converſation. The ſucceding <hi>Jews</hi> did ſo nearly converſ with <hi>Jacob,</hi> that was dead 2000 years before, that they thought themſelvs to be preſent with him, and his God at <hi>Bethel. Hos.</hi> 12.3, 4. By his ſtrength he had power with God, yea he had power over the Angel, and prevailed. He found him in <hi>Bethel,</hi> and <hi>there he ſpake with us.</hi> The Holy <hi>Exampls</hi> of the dead, what ar they, but the Spiri<g ref="char:EOLhyphen"/>tual,<note place="margin">
+                  <hi>Heb.</hi> 12.23.</note> lively <hi>monuments</hi> of the <hi>Spirits of juſt men made perfect,</hi> now living.</p>
+            <p n="3">3. <hi>Sleep is A refreſhing, reviving Enjoyment.</hi> A man lies down in <hi>weakneſs,</hi> ſleeps, and riſes up in <hi>Strength.</hi> Like A <hi>Giant,</hi> refreſht with Wine; mounts up like an <hi>Eagl,</hi> runs and is <hi>not weary,</hi> walks, and faints not: 'Tis Reported of <hi>Antaeus,</hi> A Giant of <hi>Italy,</hi>
+               <pb n="20" facs="tcp:96211:13"/>that as oft as he was <hi>weary,</hi> he would but <hi>touch</hi> the Earth, and immediately he re<g ref="char:EOLhyphen"/>bounds, and riſes with renewed ſtrength. The Death of a Believer, is like the Death of a <hi>grain of Corn.</hi> It dies, only to <hi>ſpring up</hi> in more luſtr, beauty, fruitfulneſs. <hi>Joh.</hi> 12.24. <hi>if It dy, it bringeth forth much fruit.</hi> As by ſleep A Believers Body is <hi>refreſht,</hi> ſo by Death his Body is <hi>refin'd.</hi> 1 <hi>Cor.</hi> 15.42, 43. It is ſown in <hi>corruption,</hi> It is raiſed in <hi>incorruption.</hi> It is ſown in <hi>diſhonour,</hi> it is raiſed <hi>in glory.</hi> It is ſown in <hi>weakneſs,</hi> It is raiſed in <hi>power.</hi>
+            </p>
+            <p>
+               <label>Uſe. 4. OF EXHORTATION TO TRU BELIEVERS</label> in General, Is your Death no more than a <hi>ſleep?</hi>
+            </p>
+            <p n="1">1. <hi>Away then with all inordinate, immode<g ref="char:EOLhyphen"/>rate, ſlaviſh, ſinful</hi>
+               <note n="(a)" place="margin">
+                  <hi>Heb.</hi> 2.15.</note> 
+               <hi>fear of Death.</hi> 'Tis Tru,<note place="margin">
+                  <hi>Job</hi> 18.14.</note> Death to Nature is the <hi>King of fears,</hi> and it hath its poiſonous <hi>ſting,</hi> with which it will wound the wicked, whom it <hi>uſhers</hi> into Hell. But now To <hi>prop</hi> you up againſt this ſinking fear of Death. Know, 'Tis no worſ to you, than <hi>FALLING ASLEEP.</hi> Even Gods own peopl ar too too much like
+<pb n="21" facs="tcp:96211:13"/>
+               <hi>fooliſh Children,</hi> afraid to put off their cloaths, and go to bed in A dark Chamber. All this while, we utterly miſtake the caſe of our <hi>diſſolution.</hi> We take it for An <hi>Ene<g ref="char:EOLhyphen"/>my,</hi> it provs a <hi>Friend:</hi> There is no littl <hi>plea<g ref="char:EOLhyphen"/>ſure</hi> in that, wherein we ſuppoſe the great<g ref="char:EOLhyphen"/>eſt <hi>horrour.</hi> Who is afraid, after the weary <hi>toiles</hi> of the day, to take his <hi>reſt</hi> by night? Or what is more <hi>refreſhing</hi> to the <hi>ſpent Tra<g ref="char:EOLhyphen"/>veller,</hi> then a ſweet <hi>ſleep.</hi> It is our <hi>infidelity,</hi> and <hi>unpreparedneſs,</hi> that makes Death any other than <hi>advantage!</hi> I grant indeed, A bloody <hi>Cain,</hi> A fooliſh <hi>Nabal,</hi> an Apoſtat <hi>Saul,</hi> An intemperate <hi>Felix,</hi> and that <hi>Rant<g ref="char:EOLhyphen"/>ing</hi> company mentioned, <hi>Rev.</hi> 6.15, 16. may juſtly fear Death. The Conſcience of Unregenerate men brings in A black <hi>Bill of Inditement</hi> againſt them, and convin<g ref="char:EOLhyphen"/>ces them of <hi>Rebellion</hi> againſt their Lord and Soverain: and then no wonder, if, as ar<g ref="char:EOLhyphen"/>raigned and condemned <hi>Malefactors,</hi> they live in continued fear of the <hi>Ax,</hi> or <hi>Gibbet.</hi> 'Tis no wonder, If their <hi>evil Conſcience</hi> be To them like the <hi>hand-writing</hi> on the Wall to A Carouſing <hi>Belſhazzar, Dan.</hi> 5.5, 6. and makes their countenance to change, <hi>to cauſ
+<pb n="22" facs="tcp:96211:14"/>the joints of their loins to be looſed,</hi> and their Knees to ſmite one againſt another. But <hi>Believers,</hi> Through infinite Mercy, That's not your caſe. Death to <hi>YOU</hi> is not A <hi>ſum<g ref="char:EOLhyphen"/>mons</hi> To Eternal Death, but A gentl <hi>Lulla<g ref="char:EOLhyphen"/>by,</hi> and ſofter <hi>Huſh</hi> To A Sweet ſſeep, and that in order to A <hi>Reſurrection,</hi> An Awak<g ref="char:EOLhyphen"/>ing to An Eternal Life.</p>
+            <p n="2">2. <hi>Adore, bleſs, lov the Lord Jeſus for his infinite lov, and mercy</hi> To you, and All other ſound Believers: in that, by his Painful, <hi>ſhameful,</hi> Accurſed Death, he hath pluckt out the <hi>ſting</hi> of Death: and alter'd both its <hi>Name,</hi> and <hi>Nature.</hi> That, which once was death, is now but A <hi>SLEEP.</hi> A Cooling, A refreſhing <hi>ſhadow</hi> of Death, and no more. <hi>Heb.</hi> 2.14, 15. 1 <hi>Cor.</hi> 15.55, 56.</p>
+            <p n="3">3. <hi>Carry it ſo, while you liv, that your Death may be A ſleep, A ſweet ſleep, when you die. Eccl.</hi> 5.11. The ſleep of A <hi>Labouring</hi> man is ſweet. The ſleep of A <hi>diligent</hi> Servant, of A <hi>Laborious</hi> Husbandman, of A <hi>painful</hi> Tradesman, O how <hi>ſweet</hi> is it? Oh then my dearly Beloved, whileſt you are yet awake in the World, <hi>ply</hi> your <hi>oar,</hi> follow
+<pb n="23" facs="tcp:96211:14"/>the <hi>plow,</hi> work, and work <hi>hard</hi> for your God, be ſtedfaſt, unmovabl, <hi>alwaies abound<g ref="char:EOLhyphen"/>ing in the Work of the Lord,</hi> for as much,<note place="margin">1 <hi>Cor.</hi> 15. <hi>laſt.</hi>
+               </note> as ye know, that, as your labour ſhall not be in vain, ſo your ſleep ſhall be ſweet in the Lord. The Lord will giv you ſleep, as his beloved, <hi>Pſal.</hi> 127.2. <hi>Pro.</hi> 3.24. <hi>Pſal.</hi> 3.5. and 4.8.</p>
+            <p>To make this ſleep <hi>ſweet</hi> indeed, I would offer theſe 2 things.</p>
+            <p n="1">I. <hi>Carefully avoid Thoſe things, that diſturb ſleep.</hi> I do but allude. Reflect we back on <hi>Eccl.</hi> 5.12. The ſleep of the Labouring man is ſweet, But the abundance of the Rich will not ſuffer him to ſleep. Take heed, that the abundance of your <hi>Wealth,</hi> with the many cares, <hi>buſineſſes,</hi> and fears, <hi>troubles,</hi> which are conſequent thereupon <hi>Gen.</hi> 41.19. <hi>Pro.</hi> 3.10. <hi>Luk.</hi> 12.16, 17. —12. the fatneſs of diet, <hi>gluttony,</hi> and ex<g ref="char:EOLhyphen"/>ceſs of <hi>delicious</hi> fare, cauſe not ſuch Diſtem<g ref="char:EOLhyphen"/>pers, as may hinder your ſleep on your Beds, or diſturb it in your Graves. I que<g ref="char:EOLhyphen"/>ſtion much, whither <hi>Dives</hi> his every day <hi>ſumptuous</hi> fare, did not <hi>riſe</hi> in his ſtomach, after he was dead. <hi>Luk.</hi> 16.19. <hi>Abraham</hi>
+               <pb n="24" facs="tcp:96211:15"/>ſeems to <hi>throw it</hi> in his Diſh: <hi>v.</hi> 25. Take heed therefore to your ſelves, as you would hope to ſleep undiſturbed then, that your hearts be not over-charged with <hi>ſurfeiting,</hi> and <hi>drunkenneſs,</hi> and the <hi>cares</hi> of this life Now. <hi>Luk.</hi> 21.34.</p>
+            <p n="2">II. <hi>Sincerely follow the Bleſſed</hi> David <hi>home, To his Sleeping Room,</hi> Tread in his ſteps, <hi>imitate his Nobl</hi> Exampl. Read the lovly <hi>Epitaph,</hi> which the Holy <hi>Paul</hi> hath as it were written on his Tomb. <hi>Act.</hi> 13.36. <hi>Da<g ref="char:EOLhyphen"/>vid ſerv'd his Generation</hi> by the Will of God, and then <hi>fell Aſleep.</hi> He ſerv'd his <hi>GENE<g ref="char:EOLhyphen"/>RATION,</hi> before he fell A ſleep. Remem<g ref="char:EOLhyphen"/>ber, Remember, Dear Brethren, and for<g ref="char:EOLhyphen"/>get not, <hi>David</hi> thought it not Enough To ſerv his <hi>Generation,</hi> when he <hi>actually</hi> fell aſleep, by letting fall ſom few ears, or <hi>gleanings</hi> then: No, No. <hi>David</hi> ſerved his <hi>Generation,</hi> diſpatcht the greateſt part of his Work, and then <hi>ſweetly</hi> laid him down To Reſt. O that High, that <hi>Honourable,</hi> that Heavenly, that <hi>God-like</hi> frame of Spirit of living in, and dying for the <hi>ſervice of</hi> our <hi>Generation.</hi> This, if any thing in the World makes Saints to be like <hi>David,</hi> Men <hi>after
+<pb n="25" facs="tcp:96211:15"/>Gods own Heart.</hi> How precious is the me<g ref="char:EOLhyphen"/>mory of that Bleſſed <hi>DORCAS?</hi> How doth ſhe ſhine as the <hi>Moon</hi> among the Stars, ſhe, that was ſo <hi>full of good works,</hi> and <hi>alms-deeds</hi> which ſhe did! ſhe, that left ſo many <hi>Coats and Garments</hi> for the poor, which ſhe made, whiles ſhe was yet living. <hi>Act.</hi> 9.36, 39. Oh 'Tis <hi>Wiſdom,</hi> as well as Chari<g ref="char:EOLhyphen"/>ty, To make your <hi>OWN Hands,</hi> your <hi>Exe<g ref="char:EOLhyphen"/>cutors,</hi> and your <hi>OWN Eyes,</hi> your <hi>Overſeers.</hi> Do good, All good, I had Almoſt ſaid, Do All your good, whilſt you liv. I own it, Brethren, I own it for A <hi>great,</hi> and ſerious Truth. <hi>If any man provides not for his own,</hi> eſpecially for thoſe of his own Houſe or Kindred, <hi>he hath denied the faith, and is worſ than an infidel.</hi> Charity, <hi>Regular</hi> charity, muſt, and ought to begin at Home. But it muſt not <hi>ſtop,</hi> and <hi>center</hi> There. That <hi>Stomach,</hi> that greedily takes in food, meer<g ref="char:EOLhyphen"/>ly to ſatiate, and <hi>glutt</hi> its own appetite, and not to <hi>tranſmit</hi> the digeſted food to the needy Parts, would quickly prove not ſo much A <hi>MEMBER,</hi> as A <hi>MONSTER.</hi> 'Tis Tru, You Ar <hi>Husbands.</hi> As ſuch, next to God, your deareſt <hi>Wives</hi> muſt hav your
+<pb n="26" facs="tcp:96211:16"/>
+               <hi>Hearts.</hi> You ar <hi>Parents.</hi> Next to Wives, your Hopeful, obedient <hi>Children</hi> muſt hav your <hi>Bowels.</hi> You ar <hi>Brethren,</hi> and Siſters, and have neer, and it may be poor Relati<g ref="char:EOLhyphen"/>ons. Theſe do All put in for A Chriſtian <hi>ſhare.</hi> But then know, My Brethren, you hav <hi>OTHER</hi> Relations, which ar as near, and dear To God, to Chriſt, To the Spi<g ref="char:EOLhyphen"/>rit, as Wives, Children, Kindred ar, or can be to you! Read, and read again. <hi>Mat.</hi> 12.50. And look, what e're you do to, and for theſe, is <hi>filed up,</hi> and regiſtred, and ſhall be brought forth and <hi>proclaim'd</hi> at the Great day of Account. <hi>Mat.</hi> 25. from 35, to 41.</p>
+            <p>'Tis your <hi>GENERATION</hi>-Work. I am now preſſing you to diſpatch before you fall Aſleep. You profeſs your Selvs not <hi>Nominal,</hi> but <hi>Real</hi> Sons of the <hi>Tru</hi>-Church, your Spiritual Mother, if ſo, let me Be<g ref="char:EOLhyphen"/>ſpeak you in the words of our Lord To his Belov'd Diſcipl, <hi>Joh.</hi> 19.27. <hi>Behold your Mother.</hi> Behold I ſay, and ſee, whether there be <hi>any ſorrow</hi> like unto her ſorrow, which is don unto her, wherewith the Lord, your diſpleaſed Father, hath <hi>for your ſakes, and ſins,</hi> juſtly <hi>afflicted her</hi>
+               <pb n="27" facs="tcp:96211:16"/>in the day of his fierce Anger: <hi>Lam.</hi> 1.12. Fix your <hi>ey</hi> upon her, and let your <hi>ey affect</hi> your <hi>Heart,</hi> and do, as your <hi>Everlaſting Fa<g ref="char:EOLhyphen"/>ther</hi> did, when he was juſt preparing him<g ref="char:EOLhyphen"/>ſelf to his laſt ſleep. <hi>He beheld</hi> Jeruſalem, <hi>and wept</hi> over it. <hi>Luk.</hi> 9.41. Methinks I do, and ſurely you cannot but hear the Dole<g ref="char:EOLhyphen"/>ful Groans of the ſinking, dying Church, piercing not our <hi>ears</hi> only, but <hi>hearts,</hi> in ho<g ref="char:EOLhyphen"/>ly <hi>Jobs Soul-ſtabbing</hi> Dialect, Hav <hi>pity</hi> upon me, hav <hi>pity</hi> upon me, O ye my Sons, Daughters, Friends, for the <hi>hand</hi> of God, the <hi>paw</hi> of Satan, the <hi>fangs</hi> of Antichriſt hav <hi>touched, wounded, ſtab'd</hi> me. <hi>Job</hi> 19.21. As <hi>SUBJECTS,</hi> your Generation Work is To Giv To <hi>Ceſar</hi> the things that are <hi>Ceſars,</hi> and as <hi>Godly</hi> Subjects, To <hi>GOD</hi> the things that are <hi>Gods.</hi> As <hi>CITIZENS.</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 20.25.</note> O pray for the Peace of this our Engliſh <hi>Jeruſalem,</hi> poor <hi>LONDON.</hi> They ſhall proſper, that lov Her. Endeavour to your utmoſt, that Truth, and peace, and piety may be within her Walls, and your Houſes, and Proſperity within your Palaces. <hi>Pſal.</hi> 122.6, &amp;c.</p>
+            <p>As <hi>WEALTHY CITIZENS,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 6.18. Rich in good works, ready to diſtribute.</note> O be wiſe
+<pb n="28" facs="tcp:96211:17"/>
+               <hi>Merchants,</hi> and think not much To Ex<g ref="char:EOLhyphen"/>change your <hi>Briſtol</hi>-ſtones for Tru <hi>Diamonds.</hi> Make you friends of the Unrighteous Mammon. <hi>Luk.</hi> 6.19. Do you ſee any poor deſolate <hi>Widows,</hi> be you <hi>Husbands</hi> To them; any periſhing <hi>Orphans,</hi> be you <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> to them; any lean, meager, honeſt, induſtrious, poor <hi>Houskeepers,</hi> do not ſuf<g ref="char:EOLhyphen"/>fer them to ſtarv for want of <hi>Bread,</hi> or <hi>Work.</hi> This, this is your <hi>GENERATI<g ref="char:EOLhyphen"/>ON</hi>-Work, To the ſpeedy and faithful diſpatch whereof, what mighty Encou<g ref="char:EOLhyphen"/>ragement Hath the <hi>Father of All your Mercies</hi> given you in that grand Text. <hi>Pſal.</hi> 41.1, 2, 3. I could wiſh it <hi>ingraven</hi> with the point of a Diamond on every wealthy Citizens <hi>door</hi> or <hi>glaſs,</hi> or <hi>heart</hi> in <hi>London.</hi> He, that hath promiſed To <hi>ſtrengthen</hi> thee on thy bed of Languiſhing, yea, To <hi>make all thy bed</hi> in thy ſickneſs, will certainly not fail after Death, To Turn thy bed of Duſt in<g ref="char:EOLhyphen"/>to A Bed of Down.</p>
+            <p n="3">3. Is A Believers death A ſleep? <hi>This ſhould teach us immediately to prepare for Death.</hi> To be alwaies ready. Sleep creeps, <hi>ſteals</hi> upon us in a <hi>moment.</hi> Be praierful. Be
+<pb n="29" facs="tcp:96211:17"/>watchful. 'Tis our <hi>Saviours</hi> great advice. <hi>Luk.</hi> 21.34, 35, 36. Your ſleeping by day is very like to prevent your ſweet ſleeping by night. Keep up in your Spirits a <hi>preſent PREPARED poſture</hi> for natures diſſoluti<g ref="char:EOLhyphen"/>on. See, that you have not your <hi>Oil</hi> to buy, when 'tis To <hi>burn.</hi> Remember the 5 <hi>fooliſh</hi> Virgins. Let your <hi>Lamps be both Lighted, and Trim'd, and burning.</hi> Your Lord coms in an <hi>hour, that you look not for.</hi> Mat. 24.44. and 25.16. <hi>Paul</hi> was <hi>ready,</hi> i. e. <hi>prepared</hi> to be offer'd up. 2 <hi>Tim.</hi> 4.6. <hi>Job</hi> is ready, and prepared. <hi>All the daies of his appointed time waiting, till his change com. Job.</hi> 14.14. Set your houſes, and <hi>hearts in order. Iſa.</hi> 38.1. Never reſt, till you have gotten a <hi>Well-grounded aſſurance</hi> of your real intereſt in Chriſt, and of your <hi>undoubted title to</hi> Heaven through him. <hi>Fight the good fight.</hi> Keep the Faith. Be indeed dead, mortified, <hi>crucified</hi> To the World, and all in it. Then may you with <hi>Paul,</hi> in an Ho<g ref="char:EOLhyphen"/>ly Triumph, <hi>ſet your Foot on the Head of This ſtingleſs Serpent,</hi> 1 <hi>Cor.</hi> 15.55. 2 <hi>Tim.</hi> 4.7, 8. and breath forth your Soul into your Gods <hi>Boſom,</hi> in the <hi>Swan-like</hi> Song of good
+<pb n="30" facs="tcp:96211:18"/>old <hi>Simeon. Domine, nunc dimittas.</hi> Lord, now <hi>Letteſt thou thy Servant depart in peace,</hi> and ſleep and reſt in peace. <hi>Luk.</hi> 2.19, 20.</p>
+            <p n="2">2. Particularly To the <hi>DISCONSOLATE RELICT,</hi> and near <hi>Relations</hi> of our <hi>Worthy Friend Deceaſed.</hi> 'Tis Tru, It is, and can not but be A day of <hi>darkneſs,</hi> of <hi>clouds,</hi> and thick darkneſs To <hi>you,</hi> and us. It hath plea<g ref="char:EOLhyphen"/>ſed the <hi>Allwiſe God,</hi> To take from you <hi>The guide of your youth,</hi> the deſire of your eies, <hi>the delight of your Soul,</hi> and from <hi>us,</hi> and our <hi>Society,</hi> A very <hi>conſiderabl</hi> Pillar. For this we do, and cannot but truly <hi>mourn.</hi> But yet, both you, and we muſt remember, that we mourn <hi>as becomes Believers,</hi> not as thoſe, that hav no hope, but according To the Apoſtles Advice, 1 <hi>Theſs.</hi> 4.13, 14.</p>
+            <p>Something I ſuppoſe you expect con<g ref="char:EOLhyphen"/>cerning our dear Friend departed, I con<g ref="char:EOLhyphen"/>feſs, I hav not the art of <hi>embalming</hi> the dead, And, whileſt I utter any thing of them, would not willingly giv the leaſt <hi>occaſion</hi> To Any To cry out asſomtimes they did of that <hi>great Lawyer,</hi> Now, Now, <hi>He pleads,</hi> not for the Caus, but his Fee. However, had I not been ſo happily prevented by
+<pb n="31" facs="tcp:96211:18"/>that fair, full, proportionat character, which that Re<g ref="char:EOLhyphen"/>verend, and Faithful Miniſter of Chriſt gave of him to that ſolemn Aſſembly, that waited on his Herſe To his Grave, 'Tis more than probabl, that I ſhould hav ventur'd at ſom daſhes at leaſt with my Ruder Pencil, which now to do, after ſuch an Apelles, would bee, not ſo much To add a gloſs and luſtre, as a Blot, and ſoil To ſo well drawn a Pic<g ref="char:EOLhyphen"/>ture. And yet for All this, I ſhould not be able To ſtem the Tide of my Affections, did I not great<g ref="char:EOLhyphen"/>ly fear, that ſhould I giv them the leaſt rein, they would ſoon tranſport me into ſom Exceſſes con<g ref="char:EOLhyphen"/>cerning my dear, faithful, and Friendly <hi>Gaius.</hi> (For ſuch He was to me and mine, from the firſt hour we ſaw his face, which is now near 23 years) which A Malevolent Capricio would not ſtick To cenſure for Paint, and Flattery. However before I Take my leav of his Aſhes, Giv me leav To Tell the World, that he liv'd, and died, with a perfect An<g ref="char:EOLhyphen"/>tipathy againſt Popiſh Principls, and Practiſes: dreaded the Return of Popery as much, if not more, than Death: bewailed and abhorred the Debauche<g ref="char:EOLhyphen"/>ries of the Times and place wherin he lived. A cordial well-wiſher to the beſt of Men and Intereſts. What A ſober Citizen he was, and How Tru An <hi>Engliſhman,</hi> let the Common Council ſpeak, amongſt whom he ſate for many years, and his Vote was alwaies for
+<pb n="32" facs="tcp:96211:19" rendition="simple:additions"/>Truth, and peace, and ſoberneſs both in City, and Kingdom. As for his <hi>charity,</hi> The backs, and Bellies of the poor Orphans of <hi>Chriſts Hoſpital</hi> may be in<g ref="char:EOLhyphen"/>ſtead of Tongues. to declare it. As for his <hi>juſtice,</hi> in Commerce and Trade, (that ſparkling Diamond in the Ring of Chriſtian Profeſſion) The whol Circl of his Acquaintance, To my utmoſt Obſer<g ref="char:EOLhyphen"/>vation, giv him this Atteſt, That his <hi>Word</hi> to Him, was as Obligatory, as His <hi>Bond:</hi> and what he ſpake with his <hi>Mouth,</hi> he would faithfully fulfil with his <hi>Hand.</hi> A falſe Tongue, and Ballance were both an abomination to Him. He had learnt that from the God of Truth, and Righteouſneſs. He durſt not go be<g ref="char:EOLhyphen"/>yond, or <hi>defraud</hi> his Brother in any matter, as well Knowing, <hi>That his juſt All-ſeeing God would avenge that.</hi>
+            </p>
+            <p>A Word to his <hi>Mournful ſurviving-half,</hi> and I ſhall diſmiſs both the <hi>Text,</hi> and this <hi>Aſſembly.</hi> Your neareſt, deareſt <hi>Boſom Friend</hi> is now gon to ſleep, <hi>to ſleep in Je<g ref="char:EOLhyphen"/>ſus.</hi> It cannot be long, <hi>you know not how ſoon,</hi> you may from Heaven be called to mingl <hi>Aſhes</hi> with him. <hi>Whatever you clearly ſaw, and dearly lov'd, as Truly good in him, take it for your Copy.</hi> Never forget that good God, that gav you ſo large an <hi>Intereſt</hi> in his Heart, and Hand. Your God by Him has fill'd your Hand with <hi>power,</hi> O may the ſame God fill your Heart with <hi>grace,</hi> moſt <hi>faithfully</hi> to improve your All for him, who hav ſo <hi>graciouſly</hi> received your All from Him. Fix, and keep your ey ſteady on <hi>Luk.</hi> 12.48.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
